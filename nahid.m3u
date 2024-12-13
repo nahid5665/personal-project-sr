@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Jalsha Movies”, NTV
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Jalsha Movies”, Jalsha Movies
 http://172.16.29.3:8090/hls/jalshamovieshd.m3u8
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Star Jalsha”, NTV
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Star Jalsha”, Star Jalsha
 http://172.16.29.3:8090/hls/starjalshahd.m3u8
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Zee Bangla”, NTV
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Zee Bangla”, Zee Bangal
 http://172.16.29.3:8090/hls/zeebanglahd.m3u8
